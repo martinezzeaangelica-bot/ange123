@@ -1,0 +1,4 @@
+project_name: lumi-commerce-databricks
+environment: free-edition
+main_case: lumi-commerce
+mirror_case: lluvia-cana-bagazo

@@ -1,0 +1,6 @@
+bagazo:
+  raw_path: data/raw/bagazo
+  bronze_schema: bagazo_bronze
+  silver_schema: bagazo_silver
+  gold_schema: bagazo_gold
+  ml_schema: bagazo_ml

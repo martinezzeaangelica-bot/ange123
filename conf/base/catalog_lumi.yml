@@ -1,0 +1,5 @@
+lumi:
+  raw_path: data/raw/lumi
+  bronze_schema: lumi_bronze
+  silver_schema: lumi_silver
+  gold_schema: lumi_gold
